@@ -43,6 +43,9 @@
     "devServerPort": 4200,
     "clientPackageManager": "npm",
     "languages": ["en", "zh-cn", "zh-tw", "fa", "fr", "de", "hi", "ja", "ko", "ru", "es"],
-    "cypressCoverage": true
+    "cypressCoverage": true,
+    "herokuAppName": "medcommand",
+    "herokuDeployType": "git",
+    "herokuJavaVersion": "11"
   }
 }
