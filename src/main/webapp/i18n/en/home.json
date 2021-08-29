@@ -1,19 +1,19 @@
 {
   "home": {
-    "title": "Welcome, Java Hipster!",
-    "subtitle": "This is your homepage",
+    "title": "Welcome to MedCommand!",
+    "subtitle": "A Med Men Company (CEO Hossai/Homaira)",
     "logged": {
       "message": "You are logged in as user \"{{username}}\"."
     },
-    "question": "If you have any question on JHipster:",
+    "question": "If you have any question on MedCommand:",
     "link": {
-      "homepage": "JHipster homepage",
-      "stackoverflow": "JHipster on Stack Overflow",
-      "bugtracker": "JHipster bug tracker",
-      "chat": "JHipster public chat room",
-      "follow": "follow @jhipster on Twitter"
+      "homepage": "MedCommand homepage",
+      "stackoverflow": "MedCommand on Stack Overflow",
+      "bugtracker": "MedCommand bug tracker",
+      "chat": "MedCommand public chat room",
+      "follow": "follow @MedCommand on Twitter"
     },
-    "like": "If you like JHipster, don't forget to give us a star on",
+    "like": "If you like MedCommand, don't forget to give us a star on",
     "github": "GitHub"
   }
 }
