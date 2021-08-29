@@ -1,7 +1,7 @@
 {
   "home": {
     "title": "Welcome to MedCommand!",
-    "subtitle": "A Med Men Company (CEO Hossai/Homaira)",
+    "subtitle": "A Med Men Company",
     "logged": {
       "message": "You are logged in as user \"{{username}}\"."
     },
