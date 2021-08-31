@@ -1,7 +1,7 @@
 {
   "home": {
     "title": "Welcome to MedCommand!",
-    "subtitle": "A Med Men Company",
+    "subtitle": "A Hossai Company",
     "logged": {
       "message": "You are logged in as user \"{{username}}\"."
     },
